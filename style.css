@@ -1,0 +1,18 @@
+.list li{
+    color: white;
+    list-style: none;
+    padding: 4px;
+    margin: 0px 2px;
+    display: inline-block;
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-i
+    tems: flex-start;
+}
+
+.item_2{
+    color: white;
+}
