@@ -9,10 +9,131 @@
 .head{
     display: flex;
     justify-content: space-between;
-    align-i
-    tems: flex-start;
+    align-items: flex-start;
+}
+
+.second{
+    display: flex;
 }
 
 .item_2{
     color: white;
+    max-width: 50%;
+    
+}
+
+.monkey_1{
+    
+    display: flex;
+   
+}
+.mon{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 250px;
+}
+.item_3{
+    color: white;
+    display: flex;
+}
+.dis{
+    max-width: 50%;
+    
+}
+.note{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.ape{
+    color:black;
+    background-color:#bfc500;
+    display: flex;
+    justify-content: space-evenly;
+}
+.mint{
+    margin-top: 15px;
+}
+.item_4{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.this{
+    max-width: 50%;
+}
+.item_5{
+    color: white;
+}
+.club{
+    max-width: 50%;
+}
+.item_6{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 80%;
+}
+.item_7{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.bath{
+    max-width: 50%;
+}
+.item_8{
+    color: white;
+    justify-content: space-between;
+    display: flex;
+}
+.num_1{
+    display: flex;
+    color: #bfc500;
+}
+.num_2{
+    display: flex;
+    color: #bfc500;
+}
+.num_3{
+    display: flex;
+    color: #bfc500;
+}
+.num_4{
+    display: flex;
+    color: #bfc500;
+}
+.num_5{
+    display: flex;
+    color: #bfc500;
+}
+.num_6{
+    display: flex;
+    color: #bfc500;
+}
+.num_7{
+    display: flex;
+    color: #bfc500;
+}
+.item_11{
+    color: white;
+    display: flex;
+}
+.third{
+    display: flex;
+    color: white;
+}
+.item_12{
+    color: white;
+    max-width: 50%;
+    
+}
+.mon_1{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 250px;
+}
+.footer{
+    color: white;
+    display: flex;
+    justify-content: space-between;
 }
